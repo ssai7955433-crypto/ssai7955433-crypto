@@ -8,8 +8,9 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=ssai7955433-crypto&style=flat-square&color=2563eb&label=PROFILE+VIEWS)](https://github.com/ssai7955433-crypto)
 [![GitHub](https://img.shields.io/badge/GitHub-ssai7955433--crypto-181717?style=flat-square&logo=github)](https://github.com/ssai7955433-crypto)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/v-sai-b3a011379/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ssai@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=flat-square)](https://ssai7955433-crypto.github.io/resume-project1/)
 
 </div>
 
@@ -104,9 +105,9 @@ Generative AI · LLMs · AI agents · Retrieval-augmented generation · Computer
 
 I’m open to connecting with developers, collaborating on thoughtful projects, and hearing about entry-level Python or AI/ML opportunities.
 
-- **LinkedIn:** [YOUR_LINKEDIN_URL](YOUR_LINKEDIN_URL)
-- **Email:** [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
-- **Portfolio:** [YOUR_PORTFOLIO_URL](YOUR_PORTFOLIO_URL)
+- **LinkedIn:** [linkedin.com/in/v-sai-b3a011379](https://www.linkedin.com/in/v-sai-b3a011379/)
+- **Email:** [ssai@gmail.com](mailto:ssai@gmail.com)
+- **Portfolio:** [Visit my portfolio](https://ssai7955433-crypto.github.io/resume-project1/)
 - **GitHub:** [github.com/ssai7955433-crypto](https://github.com/ssai7955433-crypto)
 
 ---
@@ -115,16 +116,4 @@ I’m open to connecting with developers, collaborating on thoughtful projects, 
 
 *“Build with curiosity. Improve with evidence. Ship with purpose.”*
 
-</div>Hi,
-<!--
-**ssai7955433-crypto/ssai7955433-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
