@@ -1,6 +1,6 @@
 <div align="center">
 
-# V. Sharavana Devankanda Sai
+# V.Sharavana Devankanda Sai
 
 ### AI/ML Developer | Python Developer | Generative AI Enthusiast
 
